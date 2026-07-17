@@ -1,0 +1,6 @@
+{
+  "name": "Discipline OS",
+  "description": "A premium self-discipline operating system designed to build habits, remove excuses, and push you to become the person you want to be through psychology, accountability, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
